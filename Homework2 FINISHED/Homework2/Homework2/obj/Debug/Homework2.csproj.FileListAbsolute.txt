@@ -1,0 +1,18 @@
+C:\Users\Bella\Desktop\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\Bella\Desktop\Homework2\bin\Debug\Homework2.exe
+C:\Users\Bella\Desktop\Homework2\bin\Debug\Homework2.pdb
+C:\Users\Bella\Desktop\Homework2\obj\Debug\Homework2.csprojResolveAssemblyReference.cache
+C:\Users\Bella\Desktop\Homework2\obj\Debug\Homework2.exe
+C:\Users\Bella\Desktop\Homework2\obj\Debug\Homework2.pdb
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\Homework2\Homework2\bin\Debug\Homework2.exe.config
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\Homework2\Homework2\obj\Debug\Homework2.exe
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\Homework2\Homework2\obj\Debug\Homework2.pdb
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\Homework2\Homework2\bin\Debug\Homework2.exe
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\Homework2\Homework2\bin\Debug\Homework2.pdb
+\\banner.main.ad.rit.edu\students\iv6703\IGMProfile\Desktop\Homework2\Homework2\obj\Debug\Homework2.csprojResolveAssemblyReference.cache
+D:\Profiles\iv6703\Homework2 FINISHED\Homework2\Homework2\bin\Debug\Homework2.exe.config
+D:\Profiles\iv6703\Homework2 FINISHED\Homework2\Homework2\obj\Debug\Homework2.exe
+D:\Profiles\iv6703\Homework2 FINISHED\Homework2\Homework2\obj\Debug\Homework2.pdb
+D:\Profiles\iv6703\Homework2 FINISHED\Homework2\Homework2\bin\Debug\Homework2.exe
+D:\Profiles\iv6703\Homework2 FINISHED\Homework2\Homework2\bin\Debug\Homework2.pdb
+D:\Profiles\iv6703\Homework2 FINISHED\Homework2\Homework2\obj\Debug\Homework2.csprojResolveAssemblyReference.cache
